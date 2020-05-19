@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"clock.model"}],"uuid":"9672681f27a14ae58175317e975dc5db"}
